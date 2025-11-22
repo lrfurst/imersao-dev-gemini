@@ -1,0 +1,402 @@
+[
+    {
+        "nome": "NotebookLM",
+        "categoria": "Produtividade",
+        "tags": ["pesquisa", "anotações", "google", "grounding"],
+        "descricao": "O NotebookLM é uma ferramenta experimental do Google que funciona como um assistente de pesquisa e anotações alimentado por Inteligência Artificial. Diferente de chatbots gerais (como o ChatGPT ou o próprio Gemini padrão), que respondem com base em tudo o que aprenderam na internet, o NotebookLM é projetado para responder baseado apenas nos documentos que você fornece. Isso o torna uma ferramenta de 'Grounding' (ancoragem), ideal para estudar, trabalhar ou analisar dados complexos com menos risco de erros ou invenções ('alucinações').",
+        "link": "https://notebooklm.google.com/",
+        "logo": "assets/notebooklm.png"
+    },
+    {
+        "nome": "Google AI Studio",
+        "categoria": "Desenvolvimento",
+        "tags": ["api", "desenvolvedores", "google", "gemini", "prototipagem"],
+        "descricao": "O Google AI Studio é uma plataforma voltada para desenvolvedores e criadores de produtos. O AI Studio é para construir soluções usando Inteligência Artificial. Ele funciona como um laboratório de prototipagem rápida. É o lugar mais rápido e fácil para você testar os modelos mais avançados do Google (como o Gemini 1.5 Pro e Flash) e integrar essa inteligência em seus próprios aplicativos, sites ou scripts.",
+        "link": "https://aistudio.google.com/welcome",
+        "logo": "assets/aistudio.png"
+    },
+    {
+        "nome": "Gemini",
+        "categoria": "Chatbot",
+        "tags": ["conversacional", "google", "assistente", "geração de texto"],
+        "descricao": "Gemini é um assistente de IA experimental e conversacional do Google. Ele é projetado para ser um colaborador criativo, ajudando a expandir a imaginação, aumentar a produtividade e dar vida a ideias. Pode gerar texto, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder às suas perguntas de forma informativa.",
+        "link": "https://gemini.google.com/",
+        "logo": "assets/gemini.png"
+    },
+    {
+        "nome": "Google Colab",
+        "categoria": "Desenvolvimento",
+        "tags": ["python", "machine learning", "google", "análise de dados"],
+        "descricao": "O Google Colaboratory, ou 'Colab', permite escrever e executar código Python através do navegador. É especialmente adequado para tarefas de machine learning, análise de dados e educação. Oferece acesso gratuito a recursos de computação, incluindo GPUs, o que o torna uma ferramenta poderosa para prototipagem e aprendizado.",
+        "link": "https://colab.research.google.com/",
+        "logo": "assets/googlecolab.png"
+    },
+    {
+        "nome": "Kaggle",
+        "categoria": "Ciência de Dados",
+        "tags": ["competições", "datasets", "machine learning", "google"],
+        "descricao": "Kaggle é uma comunidade online de cientistas de dados e praticantes de machine learning, de propriedade do Google. A plataforma permite que os usuários encontrem e publiquem conjuntos de dados, explorem e construam modelos em um ambiente de ciência de dados baseado na web e participem de competições para resolver desafios de ciência de dados.",
+        "link": "https://www.kaggle.com/",
+        "logo": "assets/kaggle.png"
+    },
+    {
+        "nome": "ChatGPT",
+        "categoria": "Chatbot",
+        "tags": ["openai", "conversacional", "assistente", "geração de texto"],
+        "descricao": "Desenvolvido pela OpenAI, o ChatGPT é um chatbot de IA generativa que permite aos usuários refinar e direcionar conversas para obter respostas em diversos formatos, estilos e níveis de detalhe. É amplamente utilizado para tarefas como geração de texto, tradução e depuração de código.",
+        "link": "https://chatgpt.com/",
+        "logo": "assets/chatgpt.png"
+    },
+    {
+        "nome": "Claude",
+        "categoria": "Chatbot",
+        "tags": ["anthropic", "conversacional", "assistente", "resumo"],
+        "descricao": "Claude é uma família de modelos de linguagem de grande porte desenvolvida pela Anthropic. Ele é projetado para ser um assistente de IA colaborativo e confiável, capaz de realizar tarefas como resumir, escrever, codificar e ajudar a responder perguntas com precisão.",
+        "link": "https://claude.ai/",
+        "logo": "assets/claude.png"
+    },
+    {
+        "nome": "Microsoft Copilot",
+        "categoria": "Assistente Pessoal",
+        "tags": ["microsoft", "bing", "windows", "produtividade"],
+        "descricao": "O Microsoft Copilot é um assistente de IA integrado ao ecossistema da Microsoft, incluindo Windows, Edge e aplicativos do Microsoft 365. Ele auxilia os usuários com buscas, criação de conteúdo e automação de tarefas.",
+        "link": "https://copilot.microsoft.com/",
+        "logo": "assets/microsoftcopilot.png"
+    },
+    {
+        "nome": "Midjourney",
+        "categoria": "Geração de Imagem",
+        "tags": ["arte", "prompts", "discord", "imagens"],
+        "descricao": "Midjourney é um serviço de inteligência artificial generativa que cria imagens a partir de descrições em linguagem natural, conhecidas como 'prompts'. É conhecido por produzir visuais de alta qualidade e com estilo artístico.",
+        "link": "https://www.midjourney.com/",
+        "logo": "assets/midjourney.png"
+    },
+    {
+        "nome": "DALL-E 3",
+        "categoria": "Geração de Imagem",
+        "tags": ["openai", "imagens", "criatividade", "prompts"],
+        "descricao": "DALL-E 3 é um modelo de IA da OpenAI que cria imagens a partir de descrições textuais. Ele é capaz de combinar conceitos, atributos e estilos para gerar imagens realistas e criativas com mais nuances e detalhes que as versões anteriores.",
+        "link": "https://openai.com/dall-e-3",
+        "logo": "assets/dalle.png"
+    },
+    {
+        "nome": "Stable Diffusion",
+        "categoria": "Geração de Imagem",
+        "tags": ["stability ai", "open source", "texto para imagem", "imagens"],
+        "descricao": "Stable Diffusion é um modelo de aprendizado profundo de texto para imagem lançado pela Stability AI. É usado principalmente para gerar imagens detalhadas com base em descrições de texto, mas também pode ser aplicado a outras tarefas, como inpainting e outpainting.",
+        "link": "https://stability.ai/",
+        "logo": "assets/stablediffusion.png"
+    },
+    {
+        "nome": "Adobe Firefly",
+        "categoria": "Geração de Imagem",
+        "tags": ["adobe", "photoshop", "imagens", "design"],
+        "descricao": "Adobe Firefly é uma família de modelos de IA generativa criativa da Adobe. Ele alimenta recursos que transformam entradas de texto em novas saídas de conteúdo, como imagens, e está integrado aos aplicativos da Adobe.",
+        "link": "https://firefly.adobe.com/",
+        "logo": "assets/adobefirefly.png"
+    },
+    {
+        "nome": "GitHub Copilot",
+        "categoria": "Desenvolvimento",
+        "tags": ["github", "código", "programação", "assistente de código"],
+        "descricao": "O GitHub Copilot é um assistente de codificação alimentado por IA que oferece sugestões de preenchimento automático de código e assistência por chat diretamente no ambiente de desenvolvimento, ajudando os desenvolvedores a programar de forma mais rápida e eficiente.",
+        "link": "https://github.com/features/copilot",
+        "logo": "assets/githubcopilot.png"
+    },
+    {
+        "nome": "Tabnine",
+        "categoria": "Desenvolvimento",
+        "tags": ["código", "programação", "assistente de código", "produtividade"],
+        "descricao": "Tabnine é um assistente de código de IA que acelera e simplifica o desenvolvimento de software. Ele oferece recomendações de código personalizadas e com reconhecimento de contexto, mantendo o código privado e seguro.",
+        "link": "https://www.tabnine.com/",
+        "logo": "assets/tabnine.png"
+    },
+    {
+        "nome": "Tess AI",
+        "categoria": "Produtividade",
+        "tags": ["automação", "texto", "imagens", "código"],
+        "descricao": "Tess AI é uma plataforma de IA da Pareto que orquestra múltiplos algoritmos para criar textos, imagens, códigos e muito mais. Ela se integra a diversas ferramentas de negócios para automatizar rotinas e aumentar a produtividade.",
+        "link": "https://www.tess.ai/",
+        "logo": "assets/tessai.png"
+    },
+    {
+        "nome": "Otter.ai",
+        "categoria": "Produtividade",
+        "tags": ["transcrição", "reuniões", "áudio", "notas"],
+        "descricao": "Otter.ai é um software de transcrição de fala para texto que usa inteligência artificial para gravar áudio e fornecer notas em tempo real. É amplamente utilizado para transcrever reuniões e palestras, gerando resumos e identificando palavras-chave.",
+        "link": "https://otter.ai/",
+        "logo": "assets/otterai.png"
+    },
+    {
+        "nome": "Notion AI",
+        "categoria": "Produtividade",
+        "tags": ["organização", "notas"],
+        "descricao": "Ele atua como um assistente para resumir conteúdos, debater ideias, redigir rascunhos e corrigir ortografia e gramática.",
+        "link": "https://www.notion.so/product/ai",
+        "logo": "assets/notion.png"
+    },
+    {
+        "nome": "Grammarly",
+        "categoria": "Produtividade",
+        "tags": ["escrita", "gramática", "revisão", "texto"],
+        "descricao": "Grammarly é um assistente de escrita que utiliza IA para revisar ortografia, gramática, pontuação, clareza e tom de escrita. Ele está disponível como aplicativo e extensão de navegador para melhorar a comunicação em diversas plataformas.",
+        "link": "https://www.grammarly.com/",
+        "logo": "assets/grammarly.png"
+    },
+    {
+        "nome": "TensorFlow",
+        "categoria": "Desenvolvimento",
+        "tags": ["google", "machine learning", "open source", "python"],
+        "descricao": "TensorFlow é uma biblioteca de software de código aberto desenvolvida pelo Google para aprendizado de máquina e inteligência artificial. É amplamente utilizada para treinar e inferir redes neurais.",
+        "link": "https://www.tensorflow.org/",
+        "logo": "assets/tensorflow.png"
+    },
+    {
+        "nome": "PyTorch",
+        "categoria": "Desenvolvimento",
+        "tags": ["meta", "machine learning", "open source", "python"],
+        "descricao": "PyTorch é uma biblioteca de aprendizado de máquina de código aberto baseada na biblioteca Torch, usada para aplicações como visão computacional e processamento de linguagem natural. Foi desenvolvida principalmente pelo laboratório de pesquisa de IA da Meta.",
+        "link": "https://pytorch.org/",
+        "logo": "assets/pytorch.png"
+    },
+    {
+        "nome": "Hugging Face",
+        "categoria": "Desenvolvimento",
+        "tags": ["nlp", "machine learning", "open source", "modelos"],
+        "descricao": "Hugging Face é uma empresa que desenvolve ferramentas para a criação de aplicações usando aprendizado de máquina. É mais conhecida por sua biblioteca de transformadores para processamento de linguagem natural e sua plataforma que permite aos usuários compartilhar modelos e conjuntos de dados.",
+        "link": "https://huggingface.co/",
+        "logo": "assets/huggingface.png"
+    },
+    {
+        "nome": "Gamma",
+        "categoria": "Produtividade",
+        "tags": ["apresentações", "design", "documentos", "webpages"],
+        "descricao": "Gamma é uma ferramenta que utiliza IA para criar apresentações, documentos e páginas da web a partir de simples instruções de texto. Ele agiliza o processo de design, permitindo que os usuários se concentrem no conteúdo enquanto a IA cuida da formatação e do apelo visual.",
+        "link": "https://gamma.app/",
+        "logo": "assets/gamma.png"
+    },
+    {
+        "nome": "Nano Banana (Gemini 2.5 Flash Image)",
+        "categoria": "Edição de Imagem",
+        "tags": ["google", "gemini", "edição", "imagens"],
+        "descricao": "Nano Banana é o codinome para o modelo de edição de imagens da próxima geração do Google, integrado ao ecossistema Gemini. Ele permite que os usuários editem e refinem imagens usando linguagem natural, realizando tarefas complexas como adicionar ou remover objetos e alterar estilos com simples comandos de texto.",
+        "link": "https://gemini.google.com/",
+        "logo": "assets/gemininanobanana.png"
+    },
+    {
+        "nome": "UiPath",
+        "categoria": "Automação de Processos",
+        "tags": ["rpa", "automação", "negócios"],
+        "descricao": "UiPath é uma plataforma de automação de processos robóticos (RPA) que ajuda a automatizar tarefas repetitivas e manuais em ambientes de negócios, melhorando a eficiência e a precisão.",
+        "link": "https://www.uipath.com/",
+        "logo": "assets/uipath.png"
+    },
+    {
+        "nome": "Automation Anywhere",
+        "categoria": "Automação de Processos",
+        "tags": ["rpa", "automação", "ia", "nuvem"],
+        "descricao": "Automation Anywhere é uma plataforma de RPA que combina automação com inteligência artificial para automatizar processos de negócios de ponta a ponta.",
+        "link": "https://www.automationanywhere.com/",
+        "logo": "assets/automationanywhere.png"
+    },
+    {
+        "nome": "Blue Prism",
+        "categoria": "Automação de Processos",
+        "tags": ["rpa", "automação", "força de trabalho digital"],
+        "descricao": "Blue Prism é uma plataforma de automação inteligente que fornece uma força de trabalho digital para automatizar processos de negócios complexos.",
+        "link": "https://www.blueprism.com/",
+        "logo": "assets/blueprism.png"
+    },
+    {
+        "nome": "Zapier",
+        "categoria": "Automação",
+        "tags": ["integração", "fluxo de trabalho", "no-code"],
+        "descricao": "Zapier é uma ferramenta online que conecta seus aplicativos e serviços favoritos para automatizar tarefas repetitivas sem a necessidade de codificação.",
+        "link": "https://zapier.com/",
+        "logo": "assets/zapier.png"
+    },
+    {
+        "nome": "Appy Pie Automate",
+        "categoria": "Automação",
+        "tags": ["no-code", "fluxo de trabalho", "ia"],
+        "descricao": "Appy Pie Automate é uma plataforma de automação sem código que permite aos usuários criar fluxos de trabalho automatizados e integrar aplicativos usando IA.",
+        "link": "https://www.appypie.com/connect/",
+        "logo": "assets/appypie.png"
+    },
+    {
+        "nome": "Microsoft Power Automate",
+        "categoria": "Automação",
+        "tags": ["fluxo de trabalho", "microsoft", "automação de processos"],
+        "descricao": "Microsoft Power Automate é um serviço que ajuda a criar fluxos de trabalho automatizados entre seus aplicativos e serviços favoritos para sincronizar arquivos, receber notificações e coletar dados.",
+        "link": "https://powerautomate.microsoft.com/",
+        "logo": "assets/powerautomate.png"
+    },
+    {
+        "nome": "Make",
+        "categoria": "Automação",
+        "tags": ["integração", "fluxo de trabalho", "no-code"],
+        "descricao": "Make (anteriormente Integromat) é uma plataforma de automação visual que permite projetar, construir e automatizar qualquer coisa, desde tarefas simples até fluxos de trabalho complexos.",
+        "link": "https://www.make.com/",
+        "logo": "assets/make.png"
+    },
+    {
+        "nome": "Gumloop",
+        "categoria": "Automação",
+        "tags": ["no-code", "ia", "fluxo de trabalho"],
+        "descricao": "Gumloop é uma plataforma sem código para construir automações de negócios alimentadas por IA, conectando modelos de linguagem a ferramentas e fluxos de trabalho internos.",
+        "link": "https://www.gumloop.com/",
+        "logo": "assets/gumloop.png"
+    },
+    {
+        "nome": "Lindy.ai",
+        "categoria": "Automação",
+        "tags": ["no-code", "agentes de ia", "automação de tarefas"],
+        "descricao": "Lindy.ai é uma plataforma sem código para criar agentes de IA personalizados ('Lindies') para automatizar tarefas como agendamento de reuniões, gerenciamento de e-mails e suporte ao cliente.",
+        "link": "https://www.lindy.ai/",
+        "logo": "assets/lindyai.png"
+    },
+    {
+        "nome": "ClickUp AI",
+        "categoria": "Produtividade",
+        "tags": ["gerenciamento de projetos", "assistente de ia", "conteúdo"],
+        "descricao": "ClickUp AI é um assistente de IA dentro da ferramenta de gerenciamento de projetos ClickUp que ajuda a escrever descrições de tarefas, resumir atualizações e gerar ideias de conteúdo.",
+        "link": "https://clickup.com/ai",
+        "logo": "assets/clickup.png"
+    },
+    {
+        "nome": "Asana",
+        "categoria": "Produtividade",
+        "tags": ["gerenciamento de projetos", "ia", "prazos"],
+        "descricao": "Asana integra capacidades de IA para priorizar tarefas, prever prazos de projetos e sugerir recursos, ajudando as equipes a se manterem organizadas e eficientes.",
+        "link": "https://asana.com/",
+        "logo": "assets/asana.png"
+    },
+    {
+        "nome": "monday.com",
+        "categoria": "Produtividade",
+        "tags": ["gerenciamento de trabalho", "fluxo de trabalho", "automação"],
+        "descricao": "monday.com oferece um construtor de fluxo de trabalho de IA escalável para automatizar fluxos de trabalho complexos e reduzir custos operacionais.",
+        "link": "https://monday.com/",
+        "logo": "assets/monday.png"
+    },
+    {
+        "nome": "Akkio",
+        "categoria": "Análise de Dados",
+        "tags": ["análise de dados", "ia", "modelos preditivos", "no-code"],
+        "descricao": "Akkio é uma plataforma de análise de dados de IA para profissionais de marketing, equipes de vendas e analistas de negócios, permitindo a construção de modelos preditivos sem código.",
+        "link": "https://www.akkio.com/",
+        "logo": "assets/akkio.png"
+    },
+    {
+        "nome": "SnapLogic",
+        "categoria": "Análise de Dados",
+        "tags": ["integração de dados", "ia", "automação de fluxo de trabalho"],
+        "descricao": "SnapLogic é uma plataforma de integração alimentada por IA para automatizar pipelines de dados e fluxos de trabalho de aplicativos em sistemas empresariais, usando seu mecanismo de IA Iris.",
+        "link": "https://www.snaplogic.com/",
+        "logo": "assets/snaplogic.png"
+    },
+    {
+        "nome": "Looker",
+        "categoria": "Análise de Dados",
+        "tags": ["business intelligence", "visualização de dados", "google"],
+        "descricao": "Looker é uma plataforma de business intelligence que ajuda a explorar, analisar e compartilhar análises de dados em tempo real através de painéis interativos.",
+        "link": "https://looker.google.com/",
+        "logo": "assets/looker.png"
+    },
+    {
+        "nome": "Tableau",
+        "categoria": "Análise de Dados",
+        "tags": ["business intelligence", "visualização de dados", "salesforce"],
+        "descricao": "Tableau é uma plataforma de análise visual que permite que as pessoas vejam e entendam os dados, com uma interface de arrastar e soltar fácil de usar.",
+        "link": "https://www.tableau.com/",
+        "logo": "assets/tableau.png"
+    },
+    {
+        "nome": "Power BI",
+        "categoria": "Análise de Dados",
+        "tags": ["business intelligence", "visualização de dados", "microsoft"],
+        "descricao": "Power BI é um serviço de análise de negócios da Microsoft que fornece visualizações interativas e capacidades de business intelligence com uma interface simples.",
+        "link": "https://powerbi.microsoft.com/",
+        "logo": "assets/powerbi.png"
+    },
+    {
+        "nome": "Jasper",
+        "categoria": "Criação de Conteúdo",
+        "tags": ["copywriting", "marketing", "ia generativa"],
+        "descricao": "Jasper (anteriormente Jarvis) é uma plataforma de IA generativa que ajuda a criar conteúdo de marketing, como postagens de blog, e-mails e cópias de anúncios.",
+        "link": "https://www.jasper.ai/",
+        "logo": "assets/jasper.png"
+    },
+    {
+        "nome": "Intercom",
+        "categoria": "Criação de Conteúdo",
+        "tags": ["suporte ao cliente", "ia", "chatbot"],
+        "descricao": "Intercom oferece suporte ao cliente em tempo real com um Copilot de IA para aumentar a eficiência dos agentes de suporte e melhorar a experiência do cliente.",
+        "link": "https://www.intercom.com/",
+        "logo": "assets/intercom.png"
+    },
+    {
+        "nome": "Outreach",
+        "categoria": "Criação de Conteúdo",
+        "tags": ["vendas", "ia", "automação de fluxo de trabalho"],
+        "descricao": "Outreach é uma plataforma de fluxo de trabalho de receita alimentada por IA para equipes de vendas, marketing e RevOps, usando agentes de IA para encontrar prospects e automatizar pesquisas.",
+        "link": "https://www.outreach.io/",
+        "logo": "assets/outreach.png"
+    },
+    {
+        "nome": "Nanonets",
+        "categoria": "Gerenciamento de Documentos",
+        "tags": ["processamento de documentos", "ia", "automação"],
+        "descricao": "Nanonets foca em processamento inteligente de documentos, automatizando a extração de dados e a classificação de documentos para otimizar fluxos de trabalho.",
+        "link": "https://nanonets.com/",
+        "logo": "assets/nanonets.png"
+    },
+    {
+        "nome": "DeepSeek OCR",
+        "categoria": "Gerenciamento de Documentos",
+        "tags": ["ocr", "ia", "automação", "extração de dados"],
+        "descricao": "DeepSeek OCR transforma documentos do mundo real em dados prontos para automação, eliminando o processamento manual e melhorando a precisão.",
+        "link": "https://www.deepseek.com/en/ocr",
+        "logo": "assets/deepseek.png"
+    },
+    {
+        "nome": "Box AI",
+        "categoria": "Gerenciamento de Documentos",
+        "tags": ["ia", "automação de fluxo de trabalho", "gerenciamento de conteúdo"],
+        "descricao": "Box AI utiliza agentes de IA para automatizar fluxos de trabalho, extraindo dados de conteúdo, roteando contratos para aprovação e gerenciando processos críticos.",
+        "link": "https://www.box.com/ai",
+        "logo": "assets/boxai.png"
+    },
+    {
+        "nome": "Suno",
+        "categoria": "Geração de Música",
+        "tags": ["música", "ia generativa", "criatividade"],
+        "descricao": "Suno é uma ferramenta de IA que gera música a partir de prompts de texto, permitindo que os usuários criem canções originais em vários estilos sem conhecimento musical.",
+        "link": "https://suno.com/",
+        "logo": "assets/suno.png"
+    },
+    {
+        "nome": "Loom",
+        "categoria": "Produtividade",
+        "tags": ["mensagens de vídeo", "comunicação", "colaboração"],
+        "descricao": "Loom é uma plataforma de mensagens de vídeo que permite gravar e compartilhar vídeos da tela, câmera e microfone, facilitando a comunicação e a colaboração.",
+        "link": "https://www.loom.com/",
+        "logo": "assets/loom.png"
+    },
+    {
+        "nome": "Fireflies.ai",
+        "categoria": "Produtividade",
+        "tags": ["assistente de reunião", "transcrição", "automação"],
+        "descricao": "Fireflies.ai é um assistente de reunião de IA que grava, transcreve e analisa conversas de voz, automatizando o processo de anotações e acompanhamento.",
+        "link": "https://fireflies.ai/",
+        "logo": "assets/fireflies.png"
+    },
+    {
+        "nome": "Synthesia",
+        "categoria": "Geração de Vídeo",
+        "tags": ["vídeo", "ia generativa", "avatares"],
+        "descricao": "Synthesia é uma plataforma de geração de vídeo de IA que permite aos usuários criar vídeos com avatares de IA, convertendo texto em fala e gerando vídeos de alta qualidade.",
+        "link": "https://www.synthesia.io/",
+        "logo": "assets/synthesia.png"
+    }
+]
