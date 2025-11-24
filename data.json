@@ -37,7 +37,7 @@
         "tags": ["competições", "datasets", "machine learning", "google"],
         "descricao": "Kaggle é uma comunidade online de cientistas de dados e praticantes de machine learning, de propriedade do Google. A plataforma permite que os usuários encontrem e publiquem conjuntos de dados, explorem e construam modelos em um ambiente de ciência de dados baseado na web e participem de competições para resolver desafios de ciência de dados.",
         "link": "https://www.kaggle.com/",
-        "logo": "assets/kaggle.png"
+        "logo": "assets/Kaggle.png"
     },
     {
         "nome": "ChatGPT",
@@ -45,7 +45,7 @@
         "tags": ["openai", "conversacional", "assistente", "geração de texto"],
         "descricao": "Desenvolvido pela OpenAI, o ChatGPT é um chatbot de IA generativa que permite aos usuários refinar e direcionar conversas para obter respostas em diversos formatos, estilos e níveis de detalhe. É amplamente utilizado para tarefas como geração de texto, tradução e depuração de código.",
         "link": "https://chatgpt.com/",
-        "logo": "assets/chatgpt.png"
+        "logo": "assets/ChatGPT.png"
     },
     {
         "nome": "Claude",
@@ -53,7 +53,7 @@
         "tags": ["anthropic", "conversacional", "assistente", "resumo"],
         "descricao": "Claude é uma família de modelos de linguagem de grande porte desenvolvida pela Anthropic. Ele é projetado para ser um assistente de IA colaborativo e confiável, capaz de realizar tarefas como resumir, escrever, codificar e ajudar a responder perguntas com precisão.",
         "link": "https://claude.ai/",
-        "logo": "assets/claude.png"
+        "logo": "assets/Claude.png"
     },
     {
         "nome": "Microsoft Copilot",
@@ -69,7 +69,7 @@
         "tags": ["arte", "prompts", "discord", "imagens"],
         "descricao": "Midjourney é um serviço de inteligência artificial generativa que cria imagens a partir de descrições em linguagem natural, conhecidas como 'prompts'. É conhecido por produzir visuais de alta qualidade e com estilo artístico.",
         "link": "https://www.midjourney.com/",
-        "logo": "assets/midjourney.png"
+        "logo": "assets/Midjourney.png"
     },
     {
         "nome": "DALL-E 3",
@@ -109,7 +109,7 @@
         "tags": ["código", "programação", "assistente de código", "produtividade"],
         "descricao": "Tabnine é um assistente de código de IA que acelera e simplifica o desenvolvimento de software. Ele oferece recomendações de código personalizadas e com reconhecimento de contexto, mantendo o código privado e seguro.",
         "link": "https://www.tabnine.com/",
-        "logo": "assets/tabnine.png"
+        "logo": "assets/Tabnine.png"
     },
     {
         "nome": "Tess AI",
@@ -141,7 +141,7 @@
         "tags": ["escrita", "gramática", "revisão", "texto"],
         "descricao": "Grammarly é um assistente de escrita que utiliza IA para revisar ortografia, gramática, pontuação, clareza e tom de escrita. Ele está disponível como aplicativo e extensão de navegador para melhorar a comunicação em diversas plataformas.",
         "link": "https://www.grammarly.com/",
-        "logo": "assets/grammarly.png"
+        "logo": "assets/Grammarly.png"
     },
     {
         "nome": "TensorFlow",
@@ -149,7 +149,7 @@
         "tags": ["google", "machine learning", "open source", "python"],
         "descricao": "TensorFlow é uma biblioteca de software de código aberto desenvolvida pelo Google para aprendizado de máquina e inteligência artificial. É amplamente utilizada para treinar e inferir redes neurais.",
         "link": "https://www.tensorflow.org/",
-        "logo": "assets/tensorflow.png"
+        "logo": "assets/TensorFlow.png"
     },
     {
         "nome": "PyTorch",
@@ -157,7 +157,7 @@
         "tags": ["meta", "machine learning", "open source", "python"],
         "descricao": "PyTorch é uma biblioteca de aprendizado de máquina de código aberto baseada na biblioteca Torch, usada para aplicações como visão computacional e processamento de linguagem natural. Foi desenvolvida principalmente pelo laboratório de pesquisa de IA da Meta.",
         "link": "https://pytorch.org/",
-        "logo": "assets/pytorch.png"
+        "logo": "assets/PyTorch.png"
     },
     {
         "nome": "Hugging Face",
@@ -173,7 +173,7 @@
         "tags": ["apresentações", "design", "documentos", "webpages"],
         "descricao": "Gamma é uma ferramenta que utiliza IA para criar apresentações, documentos e páginas da web a partir de simples instruções de texto. Ele agiliza o processo de design, permitindo que os usuários se concentrem no conteúdo enquanto a IA cuida da formatação e do apelo visual.",
         "link": "https://gamma.app/",
-        "logo": "assets/gamma.png"
+        "logo": "assets/Gamma.png"
     },
     {
         "nome": "Nano Banana (Gemini 2.5 Flash Image)",
