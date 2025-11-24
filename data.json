@@ -5,7 +5,7 @@
         "tags": ["pesquisa", "anotações", "google", "grounding"],
         "descricao": "O NotebookLM é uma ferramenta experimental do Google que funciona como um assistente de pesquisa e anotações alimentado por Inteligência Artificial. Diferente de chatbots gerais (como o ChatGPT ou o próprio Gemini padrão), que respondem com base em tudo o que aprenderam na internet, o NotebookLM é projetado para responder baseado apenas nos documentos que você fornece. Isso o torna uma ferramenta de 'Grounding' (ancoragem), ideal para estudar, trabalhar ou analisar dados complexos com menos risco de erros ou invenções ('alucinações').",
         "link": "https://notebooklm.google.com/",
-        "logo": "assets/notebooklm.png"
+        "logo": "assets/notebookLM.png"
     },
     {
         "nome": "Google AI Studio",
