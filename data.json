@@ -21,7 +21,7 @@
         "tags": ["conversacional", "google", "assistente", "geração de texto"],
         "descricao": "Gemini é um assistente de IA experimental e conversacional do Google. Ele é projetado para ser um colaborador criativo, ajudando a expandir a imaginação, aumentar a produtividade e dar vida a ideias. Pode gerar texto, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder às suas perguntas de forma informativa.",
         "link": "https://gemini.google.com/",
-        "logo": "assets/gemini.png"
+        "logo": "assets/Gemini.png"
     },
     {
         "nome": "Google Colab",
